@@ -1,0 +1,64 @@
+body {
+    background-image: url('stars-bg.jpg');
+    font-family: 'Lato', Helvetica, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    color: #EBD71C;
+  }
+  
+  button {
+    color: #EBD71C;
+    border: 2px solid #EBD71C;
+    padding: 20px;
+    background: transparent;
+    margin: 0 auto;
+    font-size: 1.2rem;
+  }
+  
+  button:hover {
+    background-color: #D2BE03;
+    border-color: #D2BE03;
+    color: black;
+  }
+  
+  button:active,
+  button:focus {
+    background-color: #B8A40A;
+    border-color: #B8A40A;
+    color: black;
+  }
+  
+  .centered-body {
+    text-align: center;
+  }
+  
+  .content {
+    margin: 12%;
+  }
+  
+  #section-images {
+    text-align: center;
+  }
+  
+  .tropper-image{
+    width: 100px;
+  }
+  
+  ul {
+   list-style: none;
+  }
+  
+  .falcon {
+    width: 18px;
+  }
+  
+  .index-logo {
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    display: block;
+    margin-bottom: 7%;
+  }
+  
+  .index-title {
+    text-align: center;
+  }
